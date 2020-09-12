@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4Q3CO53pu2cB/8v5oWusNszd9mocBSw+Wu+zYOEM5xVNvRc8HAZ/3QBA0byL/d2APZA+2r8R/l8XVHl4lkOZQg==",
+  "dgSpecHash": "FCnuoLvfd8+giV4PDdtmjSTIHcT0+bB+1WA1BJkTiulb5X2QE2OoDxZOW2fKzQqm2lKNk8/jEcbZkbBCMM9pTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\charl\\Documents\\Code\\C# Hex to Ascii\\C# Hex to Ascii.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.7\\microsoft.netcore.app.runtime.win-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.7\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\charl\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.7\\microsoft.aspnetcore.app.runtime.win-x64.3.1.7.nupkg.sha512"
+  ],
   "logs": []
 }
